@@ -9,4 +9,4 @@ A game developed in Unity using C#.
 
 ## How to open
 - Open the project in Unity Hub
-- Use Editor version: 6000.1.4f1
+- Use Editor version: 6000.3.2f1
